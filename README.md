@@ -1,6 +1,6 @@
 # Portfolio
 <img align="right" alt="Portfolio " height=250 width=350 src="https://upload.wikimedia.org/wikipedia/commons/8/81/Portfolio_.gif" />
-TanerSaydamKursPortfolioCSS-JS
+
 - Profolio Sitesini HTML ve CSS ile Tasarlama
 - Javascript ile Sabit Değişkenleri Objeye Bağlama
 - JSON Dosyası ile Verileri JSON'dan Alma
