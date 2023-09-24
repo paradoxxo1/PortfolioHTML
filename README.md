@@ -9,7 +9,7 @@ TanerSaydamKursPortfolioCSS-JS
 # Edit sayfası kurulumu ve Json-Server Çalışması için NodeJs kütüphanesi kurulumundan sonra terminal kodları sırası ile;
 
 # Cmd komutları
-## NodeJs kurulumu tamamlandığına bakmak için ;  
+## NodeJs kurulumu kontrolü için CMD Command Komutları;  
 - node -v
 - npmversion
 
